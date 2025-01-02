@@ -29,8 +29,10 @@ This repository is a comprehensive guide to learning and implementing design pat
     ->Simplified examples for beginners.
     ->Advanced Rust and C++ implementations for experienced developers.
 
+
 ## Structure 
-'''
+
+
 │
 ├── README.md                # Repository overview and learning guide
 ├── Python/                  # Python implementations
@@ -77,4 +79,4 @@ This repository is a comprehensive guide to learning and implementing design pat
         ├── strategy.rs
         └── state.rs
 
-'''
+
