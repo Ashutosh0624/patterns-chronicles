@@ -31,8 +31,6 @@ This repository is a comprehensive guide to learning and implementing design pat
 
 ## Structure 
 '''
-/learning-design-patterns
-
 │
 ├── README.md                # Repository overview and learning guide
 ├── Python/                  # Python implementations
@@ -78,3 +76,5 @@ This repository is a comprehensive guide to learning and implementing design pat
         ├── observer.rs
         ├── strategy.rs
         └── state.rs
+
+'''
