@@ -31,7 +31,7 @@ This repository is a comprehensive guide to learning and implementing design pat
 
 
 ## Structure 
-
+```
 
 │
 ├── README.md                # Repository overview and learning guide
