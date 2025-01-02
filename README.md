@@ -30,8 +30,9 @@ This repository is a comprehensive guide to learning and implementing design pat
     ->Advanced Rust and C++ implementations for experienced developers.
 
 ## Structure 
-
+'''
 /learning-design-patterns
+
 │
 ├── README.md                # Repository overview and learning guide
 ├── Python/                  # Python implementations
@@ -47,7 +48,8 @@ This repository is a comprehensive guide to learning and implementing design pat
 │       ├── observer.py
 │       ├── strategy.py
 │       └── state.py
-│
+
+
 ├── C++/                     # C++ implementations
 │   ├── creational/
 │   │   ├── factory.cpp
@@ -61,7 +63,8 @@ This repository is a comprehensive guide to learning and implementing design pat
 │       ├── observer.cpp
 │       ├── strategy.cpp
 │       └── state.cpp
-│
+
+
 └── Rust/                    # Rust implementations
     ├── creational/
     │   ├── factory.rs
